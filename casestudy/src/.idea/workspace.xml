@@ -5,46 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33f3d555-d7ea-4217-8cb9-4f1186af655c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../casestudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/order-item.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/orders.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/products.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/users.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/model/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/IOrderItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/OrderItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/utils/AppUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/utils/CSVUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/utils/InstanUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/utils/ValidateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/InputOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/LoginView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/MainLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/MemberView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/OrderView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/OrderViewLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/ProductView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/ProductViewLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/UserView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop/model/view/UserViewLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ARRAY AND METHODS IN JAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ARRAY AND METHODS IN JAVA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstract Class and Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/bai1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BAI_TAP_ABSTRAC/src/bai1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLEAN CODE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLEAN CODE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLEAN CODE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLEAN CODE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CLEAN CODE/CLEAN CODE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CLEAN CODE/CLEAN CODE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/PriceDereaseComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/PriceDereaseComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CONLLECTION FRAMEWORK/src/product_arraylist/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSA STACK QUEUE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA STACK QUEUE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LOOP JAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LOOP JAVA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEXT FILE/src/coppy_file/target_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../TEXT FILE/src/coppy_file/target_file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -95,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662977667119</updated>
       <workItem from="1662977668386" duration="147000" />
+      <workItem from="1663479888129" duration="10000" />
     </task>
     <servers />
   </component>
