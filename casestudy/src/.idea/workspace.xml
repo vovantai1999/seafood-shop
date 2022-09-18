@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33f3d555-d7ea-4217-8cb9-4f1186af655c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../casestudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data/order-item.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data/orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/IOrderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/OrderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/utils/AppUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/utils/CSVUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/utils/InstanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/utils/ValidateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/InputOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/MainLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/MemberView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/OrderView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/OrderViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/ProductView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/ProductViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/model/view/UserViewLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/String.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EfDIqXQiIqv9dShUV9P0bB2fNJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f3d555-d7ea-4217-8cb9-4f1186af655c" name="Changes" comment="" />
+      <created>1662977667119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662977667119</updated>
+      <workItem from="1662977668386" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

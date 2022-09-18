@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a41bccb0-0d61-410b-816c-cc57399797ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data/order-item.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data/orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data/products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../data/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/IOrderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/OrderItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/AppUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/CSVUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/InstanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/ValidateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/InputOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/MainLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/MemberView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/OrderView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/OrderViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/ProductView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/ProductViewLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/view/UserViewLauncher.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2EfD4PGQ6qmQWWyCTrYFFsBsJz8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a41bccb0-0d61-410b-816c-cc57399797ba" name="Changes" comment="" />
+      <created>1662977553151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662977553151</updated>
+      <workItem from="1662977554447" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
